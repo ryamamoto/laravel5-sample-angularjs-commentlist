@@ -53,13 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="714" selection-end="714" vertical-scroll-proportion="0.51968503" vertical-offset="0" max-vertical-offset="635">
-              <folding>
-                <element signature="e#7#392#0" expanded="true" />
-              </folding>
+            <state line="5" column="4" selection-start="61" selection-end="61" vertical-scroll-proportion="0.14231499" vertical-offset="0" max-vertical-offset="527">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,6 +105,7 @@
         <option value="$PROJECT_DIR$/resources/views/list.blade.php" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -550,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="55" selection-start="418" selection-end="418" vertical-scroll-proportion="0.47799698" vertical-offset="0" max-vertical-offset="659">
@@ -578,6 +570,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="10" selection-start="714" selection-end="714" vertical-scroll-proportion="0.51968503" vertical-offset="0" max-vertical-offset="635">
+          <folding>
+            <element signature="e#7#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -588,12 +589,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="714" selection-end="714" vertical-scroll-proportion="0.51968503" vertical-offset="0" max-vertical-offset="635">
-          <folding>
-            <element signature="e#7#392#0" expanded="true" />
-          </folding>
+        <state line="5" column="4" selection-start="61" selection-end="61" vertical-scroll-proportion="0.14231499" vertical-offset="0" max-vertical-offset="527">
+          <folding />
         </state>
       </provider>
     </entry>
